@@ -1,2 +1,1 @@
-# ProjetosEmC-
-Simplesmente projetos em C#.
+Meus projetos em C# nessa jornada da vida.
